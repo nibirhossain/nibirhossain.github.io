@@ -1,1 +1,1 @@
-# blog
+# Repository for My Blog Website
